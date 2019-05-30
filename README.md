@@ -1,7 +1,14 @@
 # PooledHouse
 
 An app to learn and share about service industry
-> Developed as a course requirement for CSC.47300 - Website Design at CCNY by the team PooledHouse  
+> Developed as a course requirement for CSC.47300 - Website Design at CCNY by the team PooledHouse
+
+# Team Members
+ - Bashir
+ - Carl
+ - Farhan
+ - Ian
+ - Shofi
 Hosted on AWS  
 [See the app in action here](http://front-end-20190514132134-hostingbucket-phdev.s3-website-us-east-1.amazonaws.com/)  
 

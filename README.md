@@ -9,7 +9,8 @@ An app to learn and share about service industry
  - Farhan
  - Ian
  - Shofi
-Hosted on AWS  
+ 
+# Hosted on AWS  
 [See the app in action here](http://front-end-20190514132134-hostingbucket-phdev.s3-website-us-east-1.amazonaws.com/)  
 
 ## To Run Tests  

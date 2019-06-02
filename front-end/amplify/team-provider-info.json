@@ -1,18 +1,18 @@
 {
-    "phdev": {
+    "ph": {
         "awscloudformation": {
-            "AuthRoleName": "front-end-20190411124924-authRole",
-            "UnauthRoleArn": "arn:aws:iam::487659278262:role/front-end-20190411124924-unauthRole",
-            "AuthRoleArn": "arn:aws:iam::487659278262:role/front-end-20190411124924-authRole",
-            "Region": "us-east-1",
-            "DeploymentBucketName": "front-end-20190411124924-deployment",
-            "UnauthRoleName": "front-end-20190411124924-unauthRole",
-            "StackName": "front-end-20190411124924",
-            "StackId": "arn:aws:cloudformation:us-east-1:487659278262:stack/front-end-20190411124924/c35b4e90-5c79-11e9-a299-0a20b68b404c"
+            "AuthRoleName": "front-end-ph-20190602020224-authRole",
+            "UnauthRoleArn": "arn:aws:iam::424288716041:role/front-end-ph-20190602020224-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::424288716041:role/front-end-ph-20190602020224-authRole",
+            "Region": "us-east-2",
+            "DeploymentBucketName": "front-end-ph-20190602020224-deployment",
+            "UnauthRoleName": "front-end-ph-20190602020224-unauthRole",
+            "StackName": "front-end-ph-20190602020224",
+            "StackId": "arn:aws:cloudformation:us-east-2:424288716041:stack/front-end-ph-20190602020224/fe21b370-84fb-11e9-af3b-0285144e27ac"
         },
         "categories": {
             "auth": {
-                "cognitofe5f8862": {}
+                "cognito6c546c93": {}
             }
         }
     }

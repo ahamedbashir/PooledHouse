@@ -1,7 +1,7 @@
 {
-    "phdev": {
+    "ph": {
         "configLevel": "project",
         "useProfile": true,
-        "profileName": "Carl"
+        "profileName": "default"
     }
 }

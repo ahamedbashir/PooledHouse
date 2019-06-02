@@ -1,23 +1,23 @@
 {
-	"hosting": {
-		"S3AndCloudFront": {
-			"service": "S3AndCloudFront",
-			"providerPlugin": "awscloudformation"
-		}
-	},
 	"auth": {
-		"cognitofe5f8862": {
+		"cognito6c546c93": {
 			"service": "Cognito",
 			"providerPlugin": "awscloudformation"
 		}
 	},
 	"api": {
-		"phAPI": {
+		"pooledhouse": {
 			"service": "AppSync",
 			"providerPlugin": "awscloudformation",
 			"output": {
 				"securityType": "AMAZON_COGNITO_USER_POOLS"
 			}
+		}
+	},
+	"hosting": {
+		"S3AndCloudFront": {
+			"service": "S3AndCloudFront",
+			"providerPlugin": "awscloudformation"
 		}
 	}
 }
